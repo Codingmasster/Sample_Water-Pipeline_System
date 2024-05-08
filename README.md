@@ -1,6 +1,7 @@
 # Sample_Water-Pipeline_System
 
 This Ignition perspective is a graphical representation of a water pipeline system. It includes elements such as motors, tanks, valves, and RTUs.
+![image](https://github.com/Codingmasster/Sample_Water-Pipeline_System/assets/42047968/97f54da8-4750-4cd7-bcf6-800a73e63b44)
 
 **Importing the Project into Ignition Designer**
 
